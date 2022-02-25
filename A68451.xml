@@ -1,0 +1,457 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Via regia The kings vvay to heauen. By Iames Martin, Master of Arts. With a letter of that late miracle of learning, Mr. Is. Casaubon.</title>
+            <author>Martin, James, fl. 1615-1630.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68451</idno>
+            <idno type="STC">STC 17509.5</idno>
+            <idno type="STC">ESTC S112364</idno>
+            <idno type="EEBO-CITATION">99847618</idno>
+            <idno type="PROQUEST">99847618</idno>
+            <idno type="VID">12658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1373:11, 1387:3, 1731:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Via regia The kings vvay to heauen. By Iames Martin, Master of Arts. With a letter of that late miracle of learning, Mr. Is. Casaubon.</title>
+                  <author>Martin, James, fl. 1615-1630.</author>
+                  <author>Casaubon, Isaac, 1559-1614.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Nicholas Okes] for G. Norton, and are to bee sold at his shop neere Temple-barre,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCXV. [1615]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The roman numeral date is made with an infinity sign and a turned C.</note>
+                  <note>"A letter of Mr. Casaubon. With a memorial of Mris Elizabeth Martin, late deceased" (the latter in verse) has separate dated title page with imprint "London, Printed by Nicholas Okes for George Norton"; register is continuous.</note>
+                  <note>Signatures: A-D E⁴.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>A variant (STC 17509) names Nicholas Okes in the general title-page imprint.</note>
+                  <note>Identified as STC 17509 on UMI microfilm reel 1387; "A letter" identified as STC 4746 on reel 1373.</note>
+                  <note>Reproductions of the originals in the Henry E. Huntington Library and Art Gallery and the Bodleian Library.</note>
+                  <note>Appears at reel 1387 and at reel 1731 (Henry E. Huntington Library and Art Gallery, same copy filmed twice), and at reel 1373 (Bodleian Library copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martin, Elizabeth, d. 1614 --  Poetry --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12658:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 35 -->
+            <p>A LETTER OF M<hi rend="sup">r.</hi> Caſaubon. WITH A MEMORIAL <hi>OF M<hi rend="sup">ris</hi> Elizabeth Martin,</hi> late deceaſed.</p>
+            <q>
+               <bibl>
+                  <hi>MICAH 7.8.</hi>
+               </bibl>
+               <p>Reioyce not againſt mee, O mine Enemy; when I fall, I ſhall ariſe; when I ſit in Darkeneſſe, the <hi>LORD</hi> ſhall be a Light vnto me.</p>
+            </q>
+            <q>
+               <l>
+                  <hi>O te Beatum Ceſpitem tanto Hoſpite!</hi>
+               </l>
+               <l>
+                  <hi>O cui invidere cuncta poſſint Marmora!</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by NICHOLAS OXES for GEORGE NORTON. 1615.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:12658:2"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:12658:2"/>
+            <!-- PDF PAGE 36 -->
+            <p>ADMODVM REVEREND. ET ILLVSTRIBVS VIRIS, DN<hi rend="sup">o.</hi> IOHANNI, EPISCOPO SODORENSI; DN<hi rend="sup">o.</hi> CLEMENTI THROGMORTON <hi>DN<hi rend="sup">o.</hi> IOHANNI REPINGTON Equitibus Auratis. DN<hi rend="sup">is</hi> &amp; Amicis Honorandis: L. M. Q.</hi> D. D. D.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:12658:3"/>
+            <!-- PDF PAGE 37 -->
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Appening vpon this Letter of M<hi rend="sup">r</hi>. CASAVBON <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (writ (as may appeare) vpon Ex<g ref="char:EOLhyphen"/>traordinary Occaſion) together with ſome Funerall Lines, which (in regard of the Subiect) were a <hi>Piaculum</hi> to ſmother;<note n="*" place="margin">Quis Thrax defunctis, in Chriſto <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> neget?</note> I here offer them to thy courteous view. It is Piety (ſaith <hi>Naz.</hi>) to publiſh the deceaſeds Vertues; yea, it is a meanes to increaſe grace in our owne ſelues. <hi>Vale; &amp; ſanctas Vmbras, Ani<g ref="char:EOLhyphen"/>mam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> planè diuinam, quâ par eſt <g ref="char:V">Ʋ</g>eneratione, ſequere.</hi>
+            </p>
+            <closer>
+               <signed>I. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <div xml:lang="lat" type="version">
+               <pb facs="tcp:12658:3"/>
+               <!-- PDF PAGE 37 -->
+               <head>Eruditiſsimo &amp; Magnae Spei Adoleſcenti, (<g ref="char:dtristar">*⁎*</g>) Amico Singulari &amp; Honorando.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Inas paucis diebus à te accepi: prio<g ref="char:EOLhyphen"/>res rei magnitudine quam narra<g ref="char:EOLhyphen"/>bant dederunt me in ſtuporem: nam certiſsimum Miraculum quae ſcribis conti<g ref="char:EOLhyphen"/>nent. Caeterum à Deóne ſit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> noſtrum non eſt pronuntiare, illorum eſt qui rei geſtaefuerunt aut teſtes aut teſtium fami<g ref="char:EOLhyphen"/>liares, qui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> de eo quod accidit <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, pe<g ref="char:EOLhyphen"/>ritiam habent voluntatis diuinae circa mira<g ref="char:EOLhyphen"/>cula. Quare praeſtantiſsimis Theologis illu<g ref="char:EOLhyphen"/>ſtris Academiae veſtrae hoc <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> relinquo tractandum: mihi volupe fuit cognoſcere <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: illi quaerant <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Quod ſi quid ab ali<g ref="char:EOLhyphen"/>quo eorum fuerit ſuper ea re ſane mirabili ſcriptum, magnam inieris à me gratiam ſi id mecum communicaueris. Ego Operi inſtituto Dei gratiâ finem his diebus impoſui; iam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+                  <pb facs="tcp:12658:4"/>
+                  <!-- PDF PAGE 38 -->me habet cura illiberalis de conficiendis in<g ref="char:EOLhyphen"/>dicibus: quos confecit homo &amp; doctus &amp; bo<g ref="char:EOLhyphen"/>nus, ſed ei negotio parum aptus: ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> magna pars illius operae in humeros meos recidit, prae<g ref="char:EOLhyphen"/>ſertim quod ad Auctorum indicem qui vel il<g ref="char:EOLhyphen"/>luſtrantur vel emendantur in hoc opere. Ha<g ref="char:EOLhyphen"/>bebunt mei inimici in quo exerceant: irrita<g ref="char:EOLhyphen"/>ui enim totam <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, eo quidem a<g ref="char:EOLhyphen"/>lacrius, quia confido non defuturos mihi in Anglia defenſores aduerſus illorum putidas calumnias. Iam vir inſignis, Rector <hi>Pride<g ref="char:EOLhyphen"/>aux,</hi> eximio opuſculo declarauit quodnam eſ<g ref="char:EOLhyphen"/>ſet doctorum in hoc regno de meis ſtudijs iu<g ref="char:EOLhyphen"/>dicium. Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> amorem, veſtrum pluris facio quam omnes omnium <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Sed moror te. Hoc tantum addam, optare me ſcire quibus in ſtudijs nunc ſis, &amp; quid porrò mediteris. Vale &amp; me ama vir eruditiſsime, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Londini. VI. Eid. Feb. incunte ante paucas horas Natali meo LVI. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> qui vtina<g ref="char:cmbAbbrStroke">̄</g> quod praeterijt vitae meae, tegat; quod ſupereſt regat. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb facs="tcp:12658:4"/>
+               <!-- PDF PAGE 38 -->
+               <head>The ſame Engliſhed. To his Singular and Honored Friend, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Receiued lately two Letters from you: The firſt trans<g ref="char:EOLhyphen"/>form'd me wholy into Won<g ref="char:EOLhyphen"/>der: without doubt the thing you write of, is miraculous: But WHENCE, I cannot affirme. They may beſt coniecture, that were Eye-wit<g ref="char:EOLhyphen"/>neſſes, or of their neereſt acquaintance, &amp; they that haue the Spirit of Diſcerning, &amp;c. In which regard I leaue the diſcuſſing thereof to the Moſt Excellent Diuines of your Illuſtrious Vniuerſity. The <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> of it was pleaſing to me; the <hi>Cauſe</hi> I referre to them, whoſe Iudgements on ſuch an Admirable Euent, I ſhould be ve<g ref="char:EOLhyphen"/>ry glad to heare. I haue at length (by Gods Helpe) ended my Work (<hi>againſt BARO<g ref="char:EOLhyphen"/>NIVS</hi>) and am now buſie in gathering the <hi>Index</hi> of Authors that are Illuſtrated or Corrected. I haue ſtirred a whole Hor<g ref="char:EOLhyphen"/>nets-neſt of Aduerſaries; the more con<g ref="char:EOLhyphen"/>fidently,
+<pb facs="tcp:12658:5"/>
+                  <!-- PDF PAGE 39 -->in that I doubt not but ſome in England wil defend my Name from their baſe and vnſavory Calumnies. M<hi rend="sup">r</hi>. Do<g ref="char:EOLhyphen"/>ctor <hi>Prideaux</hi> hath lately ſhew'd in an Ex<g ref="char:EOLhyphen"/>cellent Worke, what the Learned of this Kingdome iudge of my Labours. Your Loue is of more force with me, then all the Spirits of Detraction. I deſire to heare further from you, &amp;c.</p>
+               <p>LONDON, the VI. of the Ides of Fe<g ref="char:EOLhyphen"/>bruary: the 56<hi rend="sup">t</hi> yeare of my Age, by the Grace of my Mercifull God, whom I be<g ref="char:EOLhyphen"/>ſeech to couer what is paſt, and gouerne what is to come.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Iacobus Martynus.</item>
+                        <item>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</item>
+                        <item>Caſauboni Myrtus.</item>
+                     </list>
+                  </signed>
+               </closer>
+               <byline>ISAACVS MARTINVS, GERMANVS, <hi>fecit.</hi>
+               </byline>
+            </div>
+         </div>
+         <div type="memorial">
+            <pb facs="tcp:12658:5"/>
+            <!-- PDF PAGE 39 -->
+            <p>TO THE RIGHT WORSHIPFVL AND WOR<g ref="char:EOLhyphen"/>THY, MY MOST ENDEA<g ref="char:EOLhyphen"/>RED AND EVER HONO<g ref="char:EOLhyphen"/>RED MOTHER-IN-LAW, MISTRESSE MARY GREY;</p>
+            <p>I <hi>CONSECRATE THIS, DEVOTE MY SELFE, WISH ALL</hi> THE COMFORTS AND BLESSINGS OF THIS LIFE, AND A CROVVNE <hi>OF GLORY IN THE NEXT.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:12658:6"/>
+            <!-- PDF PAGE 40 -->
+            <p>D. O. M. S. <hi>LECTISS<hi rend="sup">ae</hi>. FAEMJ<g ref="char:EOLhyphen"/>NAE. CONJ<g ref="char:V">Ʋ</g>GI.</hi> SEMPER. COLENDAE. ET. VSQVE. ET. <hi>VS<g ref="char:EOLhyphen"/>QVE. DEFLENDAE.</hi>
+            </p>
+            <p>DN<hi rend="sup">ae.</hi> 
+               <hi>Eliſabethae. Martinae.</hi> SVFFOLCIENSI. SINGVLARI. SEXVS. SVI. ORNAMENTO. E. NO<g ref="char:EOLhyphen"/>BILI. <hi>GRAIORVM.</hi> PROSA<g ref="char:EOLhyphen"/>PIA. ORIVNDAE. AETER<g ref="char:EOLhyphen"/>NAE. BEATITVDINIS. CANDIDATAE. CVIVS. COR<g ref="char:EOLhyphen"/>PVS. GLORIOSAE. RESVRRECTIO<g ref="char:EOLhyphen"/>NIS. EXPECTATIONE. HIC QVIESCIT.</p>
+            <p>I. M.</p>
+            <p>MARITVS. MOESTISSIMVS. HOC. PIETATIS. SVAE. QVALECVNQVE. <hi>SYMBOLVM. L. M. Q. P.</hi>
+            </p>
+            <p>
+               <hi>Pijſſimè in Chriſto obdormiuit (ex Occulta Tabe) A<hi rend="sup">o</hi>
+               </hi> MDCXIV <hi>Decembris</hi> 7.<note place="margin">Climax vita fam. ſenarijs deſvnt.</note> 
+               <hi>aetat.</hi> 24. <hi>Vitae Climacterico.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:12658:6"/>
+            <!-- PDF PAGE 40 -->
+            <head>On the Deceaſe of my Incom<g ref="char:EOLhyphen"/>parable <hi>Siſter, Miſtreſſe</hi> ELIZABETH MARTIN.</head>
+            <lg>
+               <l>TO the deare <hi>Memory</hi> of the <hi>moſt Deare,</hi>
+               </l>
+               <l>I ſet apart this Inke, more ſad then Teares:</l>
+               <l>Theſe are the Cypreſſe-branches that I beare,</l>
+               <l>The mourning Habit that my ſad Soule weares:</l>
+               <l>This the Impreſa that my Sorrow beares:</l>
+               <l>If This, not feelingly define my Smart,</l>
+               <l>'Tis not defect of Woe, but want of Skilfull Art.</l>
+            </lg>
+            <lg>
+               <l>Within the Center of my Troubled Soule,</l>
+               <l>A Monument vnto thy Name I'le build,</l>
+               <l>And there with Teare-fil'd Characters inroule</l>
+               <l>Thoſe Bright Perfections that thy Life did guild;</l>
+               <l>The Grace-full Good that all thy Actions fil'd.</l>
+               <l>There ſhall my Loue thy ſad Loſſe memorize,</l>
+               <l>When all the World ſhal ceaſe to mind thy Obſequies.</l>
+            </lg>
+            <lg>
+               <l>Then deigne to take of the Obſcureſt Hand</l>
+               <l>Theſe well-deſerued Attributes of praiſe;</l>
+               <l>I know thy Trophies not the higher ſtand</l>
+               <l>Becauſe my Hand deſir'd thy Name to raiſe:</l>
+               <l>Faire Angelized Soule, theſe humble Laies</l>
+               <l>And worthleſſe Numbers giue thy Light no luſter,</l>
+               <l>But ſhew thoſe Shapeles Woes that in my Boſom muſter.</l>
+            </lg>
+            <closer>
+               <signed>MARY.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:12658:7"/>
+            <!-- PDF PAGE 41 -->
+            <head>
+               <hi>To her Soule-loued Siſter,</hi> M<hi rend="sup">ris</hi> E. M.</head>
+            <lg>
+               <l>THough <hi>Marble,</hi> nor the <hi>Proudeſt</hi> Monument,</l>
+               <l>Can Splendor adde to thy Starre-crowned Fame,</l>
+               <l>That now triumph'ſt aboue the Firmament,</l>
+               <l>Where Glorious Lights all Mortall Sparkes out-flame:</l>
+               <l>Yet deigne (Sweet Saint) t'accept theſe lines of mine,</l>
+               <l>Which here I offer at thy Sacred Shrine:</l>
+            </lg>
+            <lg>
+               <head>EPITAPH.</head>
+               <l>VVHo living was Her Sexes ANADEM,</l>
+               <l>Heau'ns faire IDEA, Natures rarer GEM,</l>
+               <l>Needs not the Luſtre of DIVINEST PRAISE,</l>
+               <l>Tho <hi>Golden Statues</hi> KINGS to Her ſhould raiſe;</l>
+               <l>Since that Her Name is regiſtred on hye,</l>
+               <l>In th'Happy ANNALS of ETERNITY.</l>
+            </lg>
+            <closer>
+               <signed>ANNE GREY.</signed>
+            </closer>
+         </div>
+         <div type="parody">
+            <pb facs="tcp:12658:7"/>
+            <!-- PDF PAGE 41 -->
+            <head>PARODIA.</head>
+            <lg>
+               <l>SO downe the Siluer Streames of ERIDAN,</l>
+               <l>On either ſide bank't with a Lilly-wall,</l>
+               <l>Whiter then both, rides the Triumphant Swan,</l>
+               <l>And ſings his Dirge, and propheſies his Fall,</l>
+               <l>Diving into his watry Funerall;</l>
+               <l>As SHE (whoſe Gold-beam'd fame ſhall neuer <hi>date</hi>)</l>
+               <l>Fore-warn'd in ſleepe, did prae-diuine her Fate.</l>
+            </lg>
+            <lg>
+               <l>So faireſt <hi>Phoſphor</hi> the bright Morning-ſtarre,</l>
+               <l>But newly waſh't in the Greene Element,</l>
+               <l>Before the drowzie Night is halfe aware,</l>
+               <l>Shooting his flaming Lockes with dew beſptent,</l>
+               <l>Springs liuely vp into the ORIENT;</l>
+               <l>As Globes of Winged Angels, ſwift as Thought,</l>
+               <l>ELIZA's Soule to her deare SAVIOVR brought,</l>
+            </lg>
+            <pb facs="tcp:12658:8"/>
+            <!-- PDF PAGE 42 -->
+            <lg>
+               <l>Why ſpend we Teares (that never can be ſpent)</l>
+               <l>On her that VALE of TEARES no more ſhall ſee?</l>
+               <l>Why ſend we Sighes (that never can be ſent)</l>
+               <l>To her that dy'd to liue, and would <hi>not be,</hi>
+               </l>
+               <l>To be there where ſhe <hi>would?</hi> here bury we</l>
+               <l>This Heau'nly Earth; O let it ſoftly ſleepe:</l>
+               <l>"Let's not for Her, but for our owne Sinnes weepe.</l>
+            </lg>
+            <lg>
+               <l>Had I a voyce of Steele to tune my Song,</l>
+               <l>Were euery verſe as ſmoothly fil'd as Glaſſe,</l>
+               <l>And euery Member turned to a Tongue,</l>
+               <l>And euery Tongue were made of ſounding Braſſe,</l>
+               <l>Yet all that Skill, and all that Strength, alas,</l>
+               <l>Should it preſume to guild, were miſadviz'd,</l>
+               <l>The Place, where now ſhe reignes Imparadiz'd.</l>
+            </lg>
+            <pb facs="tcp:12658:8"/>
+            <!-- PDF PAGE 42 -->
+            <lg>
+               <l>Impotent Words, weake Sides, that ſtriue in vaine,</l>
+               <l>In vaine, t'emblazon that ſo heauenly Sight,</l>
+               <l>So Heau'nly Sight, as none can greater <hi>feigne,</hi>
+               </l>
+               <l>Feigne what he can, that ſeemes of greateſt Might,</l>
+               <l>Might any yet compare with Infinite?</l>
+               <l>Infinite ſure thoſe Ioyes, my words but light;</l>
+               <l>
+                  <hi>Light</hi> is the Palace where ſhe dwelles. O Bleſſed Wight!</l>
+            </lg>
+            <epigraph>
+               <q>
+                  <hi>Bleſſed are the dead that dye in the Lord.</hi>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>PENELOPE GREY.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:12658:9"/>
+            <!-- PDF PAGE 43 -->
+            <head>TO THE SOVLE.</head>
+            <lg>
+               <l>PErfections faire Idea, that art crown'd</l>
+               <l>With more rich Attributes of Excellence,</l>
+               <l>Than all the Wonders of this ſpacious Round;</l>
+               <l>Of more Regard, of Higher Conſequence;</l>
+               <l>Aboue them all thou haſt Preheminence,</l>
+               <l>In thy moſt pow'rfull Makers armes embrac'd,</l>
+               <l>And with his owne Endowments amply grac'd.</l>
+            </lg>
+            <lg>
+               <l>Iuſt, Holy, Righteous, Innocent and Wiſe:</l>
+               <l>Such is the Soule, <hi>Iehouahs</hi> ſole belou'd;</l>
+               <l>Theſe are the Luſters of her Sphaery Eyes</l>
+               <l>That her to him vnparallel'd approu'd.</l>
+               <l>Angels, at this amazed, ſtand vnmou'd</l>
+               <l>To ſee the Glories that do her indow,</l>
+               <l>As Heau'n it ſelfe to abiect Earth ſhould bow.</l>
+            </lg>
+            <pb facs="tcp:12658:9"/>
+            <!-- PDF PAGE 43 -->
+            <lg>
+               <l>Then baniſh hatefull Paſsion vnto Hell,</l>
+               <l>That vailes with <hi>Cupids</hi> Scarfe the cleareſt ſight,</l>
+               <l>And doth True Iudgement from his Throne expell,</l>
+               <l>Circling with ſhades Heau'ns loue-deſeruing Light,</l>
+               <l>Making Obſcurity then Day more bright.</l>
+               <l>Diſdaine this ſeruile Yoke of baſe Subiection,</l>
+               <l>For droſsie Earth deſerues not thy Affection.</l>
+            </lg>
+            <lg>
+               <l>Heau'ns brighteſt Abſtract, canſt thou condiſcend</l>
+               <l>Theſe mundane vanities to meditate?</l>
+               <l>Why doſt thou not thy beſt Devotions bend</l>
+               <l>Thy Mighty Makers Power to contemplate?</l>
+               <l>To Him, thy Loue and Seruice conſecrate,</l>
+               <l>Whoſe euer-gratefull Truth knowes no Defect,</l>
+               <l>But giues for Loue a more than deare Reſpect.</l>
+            </lg>
+            <closer>
+               <signed>Mary. q. G.</signed>
+            </closer>
+         </div>
+         <div type="precept">
+            <pb facs="tcp:12658:10"/>
+            <!-- PDF PAGE 44 -->
+            <p>
+               <g ref="char:dtristar">*⁎*</g> ⁂</p>
+            <p>
+               <seg rend="decorInit">T</seg>He Church doth not ſolemnize the <hi>Birth</hi> of Saints; it makes the day of their <hi>Death</hi> a <hi>Feſtiuall: Diem Fatalem, Natalem;</hi> which is another kinde of Birth then the firſt; there being no more pro<g ref="char:EOLhyphen"/>portion betwixt the World out of which they goe, and Heauen whereinto they enter, then there is betwixt the Wombe out of which they goe, and the World whereinto they enter. Wee muſt drinke <hi>Thu Cup</hi> IOYFVLLY when God preſents it. Chriſt himſelfe, his bleſſed Virgin-Mother, all the Saints in Heauen haue begun to vs. Chriſtians, that haue a firme hope (in Chriſt) of Eternall Life, ſhould not bee skared with a Temporall Death.<note n="*" place="margin">1. Theſſ. 5.9.10.</note> God hath not appointed vs to wrath: but to obtaine ſaluation by our Lord Ieſus Chriſt, who died for vs, that whether wee <hi>Wake</hi> or <hi>Sleepe,</hi> wee ſhould liue together with Him.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:12658:10"/>
+            <!-- PDF PAGE 44 -->
+         </div>
+      </body>
+   </text>
+</TEI>
